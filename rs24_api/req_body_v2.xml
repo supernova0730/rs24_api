@@ -1,0 +1,26 @@
+<GET_Input xmlns:ns="http://xmlns.oracle.com/apps/fnd/soaprovider/plsql/rest/XXRSV_I1085_ITEM_PKG/GET_INFO/"
+           xmlns:ns1="http://xmlns.oracle.com/apps/fnd/soaprovider/plsql/rest/XXRSV_I1085_ITEM_PKG/header/">
+    <RESTHeader>
+        <Responsibility>IBE_FIL_022</Responsibility>
+        <RespApplication>IBE</RespApplication>
+        <SecurityGroup>STANDARD</SecurityGroup>
+        <NLSLanguage>RUSSIAN</NLSLanguage>
+    </RESTHeader>
+    <InputParameters>
+        <P_VERSION>2.0</P_VERSION>
+        <P_PARAMETER_TBL>
+            <P_PARAMETER_TBL_ITEM>
+                <PARAMETER_NAME>P_SITE_USE_ID</PARAMETER_NAME>
+                <PARAMETER_VALUE></PARAMETER_VALUE>
+            </P_PARAMETER_TBL_ITEM>
+            <P_PARAMETER_TBL_ITEM>
+                <PARAMETER_NAME>P_ITEM_NUM</PARAMETER_NAME>
+                <PARAMETER_VALUE></PARAMETER_VALUE>
+            </P_PARAMETER_TBL_ITEM>
+            <P_PARAMETER_TBL_ITEM>
+                <PARAMETER_NAME>P_INFO_TYPE</PARAMETER_NAME>
+                <PARAMETER_VALUE></PARAMETER_VALUE>
+            </P_PARAMETER_TBL_ITEM>
+        </P_PARAMETER_TBL>
+    </InputParameters>
+</GET_Input>
